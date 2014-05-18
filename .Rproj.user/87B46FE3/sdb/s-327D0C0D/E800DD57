@@ -1,0 +1,17 @@
+{
+    "contents" : "Read Me\n##This is a Test\n*line one \n*line two\n*line 15, you thought I was going to say line three\n",
+    "created" : 1400437715998.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4289994258",
+    "id" : "E800DD57",
+    "lastKnownWriteTime" : 1400437824,
+    "path" : "C:/Users/perrylang/datasciencecoursera/readme.md",
+    "project_path" : "readme.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
